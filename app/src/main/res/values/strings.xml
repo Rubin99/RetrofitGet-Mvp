@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RetrofitGet</string>
+    <string name="reference_number">Reference Number: </string>
+    <string name="chassis_number">Chassis Number: </string>
+    <string name="purchase_date">Purchase Date: </string>
+    <string name="model">Model: </string>
+    <string name="color">Color: </string>
+    <string name="sales_person">Sales Person: </string>
+    <string name="purchase_destination">Purchase Destination: </string>
+    <string name="vehicle_image">Vehicle Image: </string>
+    <string name="photo_count">Photo Count: </string>
+</resources>
